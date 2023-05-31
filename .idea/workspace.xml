@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82b4790e-a09e-4bcb-a5a7-cadd0b8dcdf3" name="Default Changelist" comment="" />
+    <list default="true" id="82b4790e-a09e-4bcb-a5a7-cadd0b8dcdf3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/name.html" beforeDir="false" afterPath="$PROJECT_DIR$/name.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +12,11 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2QXqlIpgTKWwzuS6VkZMPuMrq59" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -19,7 +25,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../laravel-blog-crud" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="name.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Git-Practise/name.html" useBuiltInWebServerPort="true">
@@ -42,6 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1685510423655</updated>
       <workItem from="1685510424940" duration="48000" />
+      <workItem from="1685510531203" duration="623000" />
     </task>
     <servers />
   </component>
@@ -49,6 +56,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="130" y="48" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1685510579798">
+      <screen x="0" y="40" width="1360" height="728" />
+    </state>
+    <state x="130" y="48" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.40.1360.728@0.40.1360.728" timestamp="1685510579798" />
     <state x="407" y="98" key="FileChooserDialogImpl" timestamp="1685510471655">
       <screen x="0" y="40" width="1360" height="728" />
     </state>
